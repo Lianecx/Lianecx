@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lianecx
-- 👀 I’m interested in Moddind. Mostly Discord Bots and Minecraft Mods.
+- 👀 I’m interested in Modding. Mostly Discord Bots and Minecraft Mods.
 - 🌱 I’m currently learning Fabric Minecraft Modding and Discord.js
 - 📫 How to reach me: Messages in Github.
 
