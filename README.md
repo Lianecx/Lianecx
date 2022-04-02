@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Fabric Minecraft Modding/otherstuff
 - 📫 How to reach me: Messages in Github, Discord: **Lianecx#6444**
 
-**Projects**
+**Public Projects**
 - [Minecraft SMP Bot](https://top.gg/bot/712759741528408064)
 - [SMP-Plugin](https://www.spigotmc.org/resources/smp-plugin.98749/)
 
