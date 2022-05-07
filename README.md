@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lianecx
-- 👀 I’m interested in Coding. I code lots of things ranging from Discord Bots over Arduino Programs to Minecraft Mods/Plugins
-- 🌱 I’m currently learning Fabric Minecraft Modding/otherstuff
+- 👀 I’m interested in Coding! I code lots of things ranging from Discord Bots over Arduino Programs to Minecraft Mods and Plugins
+- 🌱 I’m currently learning Fabric Minecraft Modding/Other Stuff
 - 📫 How to reach me: Messages in Github, Discord: **Lianecx#6444**
 
 **Public Projects**
