@@ -9,5 +9,5 @@
 - [Minecraft SMP Bot](https://top.gg/bot/712759741528408064)
 - [SMP-Plugin](https://www.spigotmc.org/resources/smp-plugin.98749/)
 
-![Discord Bots](https://top.gg/api/widget/712759741528408064.svg)
+[![Discord Bots](https://top.gg/api/widget/712759741528408064.svg)](https://top.gg/bot/712759741528408064)
 
