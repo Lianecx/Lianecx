@@ -1,4 +1,4 @@
-[![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
 
 - 👋 Hi, I’m @Lianecx
 - 👀 I’m interested in Coding! I code lots of things ranging from Discord Bots over Arduino Programs to Minecraft Mods and Plugins
