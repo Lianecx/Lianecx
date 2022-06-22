@@ -6,8 +6,8 @@
 - 📫 How to reach me: Discord: **Lianecx#6444**
 
 **Public Projects**
-- [Minecraft SMP Bot](https://top.gg/bot/712759741528408064) [Github](https://github.com/MC-Linker/Minecraft-SMP-Bot)
-- [SMP-Plugin](https://www.spigotmc.org/resources/smp-plugin.98749/) [Github](https://github.com/MC-Linker/SMP-Plugin)
+- [Minecraft SMP Bot](https://top.gg/bot/712759741528408064); [Github](https://github.com/MC-Linker/Minecraft-SMP-Bot)
+- [SMP-Plugin](https://www.spigotmc.org/resources/smp-plugin.98749/); [Github](https://github.com/MC-Linker/SMP-Plugin)
 
 [![Discord Bots](https://top.gg/api/widget/712759741528408064.svg)](https://top.gg/bot/712759741528408064)
 
