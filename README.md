@@ -1,6 +1,7 @@
 <div align="center">
  
-![My Skills](https://skillicons.dev/icons?perline=11&i=arduino,blender,cpp,css,discord,bots,docker,electron,git,github,gradle,html,idea,java,js,linux,md,nodejs,py,react,regex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?perline=11&i=arduino,blender,cpp,css,discord,bots,docker,electron,git,github,gradle,html,idea,java,js,linux,md,nodejs,py,react,regex)](https://skillicons.dev)
+ 
 </div>
 
 - 👋 Hi, I’m @Lianecx
