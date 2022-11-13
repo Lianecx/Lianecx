@@ -2,7 +2,7 @@
   
 [![ctrl-c-ctrl-v](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com) [![0-percent-optimized](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com) [![powered-by-water](https://forthebadge.com/images/badges/powered-by-water.svg)](https://forthebadge.com)
   
-[![My Skills](https://skillicons.dev/icons?i=arduino,blender,cpp,css,discord,bots,docker,electron,git,github,gradle,html,idea,java,js,linux,md,nodejs,py,react,regex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?perline=10&i=arduino,blender,cpp,css,discord,bots,docker,electron,git,github,gradle,html,idea,java,js,linux,md,nodejs,py,react,regex)](https://skillicons.dev)
 </div>
 
 - 👋 Hi, I’m @Lianecx
