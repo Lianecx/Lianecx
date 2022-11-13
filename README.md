@@ -1,6 +1,6 @@
 <div align="center">
  
-[![My Skills](https://skillicons.dev/icons?perline=11&i=arduino,blender,cpp,css,discord,bots,docker,electron,git,github,gradle,html,idea,java,js,linux,md,nodejs,py,react,regex "My Skills")](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?perline=11&i=arduino,blender,cpp,css,discord,bots,docker,electron,git,github,gradle,html,idea,java,js,linux,md,nodejs,py,react,regex,gcp "My Skills")](https://skillicons.dev)
  
 </div>
 
