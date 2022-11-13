@@ -1,6 +1,6 @@
 <div align="center">
  
-[![My Skills](https://skillicons.dev/icons?perline=11&i=arduino,blender,cpp,css,discord,bots,docker,electron,git,github,gradle,html,idea,java,js,linux,md,nodejs,py,react,regex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?perline=11&i=arduino,blender,cpp,css,discord,bots,docker,electron,git,github,gradle,html,idea,java,js,linux,md,nodejs,py,react,regex "My Skills")](https://skillicons.dev)
  
 </div>
 
@@ -11,7 +11,7 @@
 
 <div align="center">
  
-[![Discord Bots](https://top.gg/api/widget/712759741528408064.svg)](https://top.gg/bot/712759741528408064)
+[![Discord Bots](https://top.gg/api/widget/712759741528408064.svg "My Discord Bot")](https://top.gg/bot/712759741528408064)
   
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Lianecx&show_icons=true&count_private=true&include_all_commits=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lianecx&langs_count=10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
